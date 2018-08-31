@@ -12,4 +12,58 @@
             </ul>
         </div>
     </div>
+    <script  type='text/javascript'>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyCSjufWzPctXvaQKhjIjwoIPZctVhywlbk",
+            authDomain: "digiprotecto.firebaseapp.com",
+            databaseURL: "https://digiprotecto.firebaseio.com",
+            projectId: "digiprotecto",
+            storageBucket: "",
+            messagingSenderId: "526829939946"
+        };
+        firebase.initializeApp(config);
+        var database = firebase.database();
+
+        console.log("firebase intialized!!!");
+
+        document.getElementById("requestCallbackButton").onclick =
+            function(e) {
+
+                console.log("request calllback clicked!!")
+
+                e.preventDefault();
+
+                const name = document.getElementById("Name").value;
+                const contactNumber = document.getElementById("ContactNumber").value;
+                const query = document.getElementById("ContactHelp").value;
+
+                // do validation
+                if(contactNumber.length < 10) {
+                    alert("Please enter valid mobile number.");
+                    return;
+                } else if(name.length < 4) {
+                    alert("Please enter your name.");
+                    return;
+                }
+
+                // A post entry.
+                var postData = {
+                    name,
+                    contactNumber,
+                    query
+                };
+
+                // Get a key for a new query.
+                var newPostKey = firebase.database().ref().child('queries').push().key;
+
+                var updates = {};
+                updates['/queries/' + newPostKey] = postData;
+                firebase.database().ref().update(updates);
+
+                document.getElementById("contactForm").style= "display:none";
+                document.getElementById("contactFormResponse").style= "color: green; font-weight: 800";
+            }
+
+    </script>
 </footer>

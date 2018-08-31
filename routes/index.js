@@ -9,6 +9,7 @@ router.get( "/about-us/background", ( req, res, next ) => {
 
 router.get( "/contact-us/enquiries", ( req, res, next ) => {
     res.render( "products-connect");
+    // res.render( "contact");
 } );
 
 router.get( "/products/overview", ( req, res, next ) => {
