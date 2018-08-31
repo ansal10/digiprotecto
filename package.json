@@ -1,0 +1,26 @@
+{
+  "name": "digiprotecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manovagyanik1/fileincometax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manovagyanik1/fileincometax/issues"
+  },
+  "homepage": "https://github.com/manovagyanik1/fileincometax#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
