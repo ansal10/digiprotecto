@@ -1,0 +1,188 @@
+HTTrack3.49-2 launched on Wed, 29 Aug 2018 15:40:58 at https://www.muso.com/
+(httrack https://www.muso.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:43:54	Warning: 	Moved Permanently for https://www.muso.com/?p=16
+15:43:54	Warning: 	File has moved from https://www.muso.com/?p=16 to https://www.muso.com/products/overview/
+15:43:54	Warning: 	Moved Permanently for https://www.muso.com/products/
+15:43:54	Warning: 	File has moved from https://www.muso.com/products/ to https://www.muso.com/products/overview/
+15:44:35	Warning: 	Moved Permanently for https://www.muso.com/?p=22
+15:44:35	Warning: 	File has moved from https://www.muso.com/?p=22 to https://www.muso.com/contact-us/enquiries/
+15:44:35	Warning: 	Moved Permanently for https://www.muso.com/contact-us/
+15:44:35	Warning: 	File has moved from https://www.muso.com/contact-us/ to http://www.muso.com/contact-us/enquiries/
+15:44:38	Warning: 	Moved Permanently for https://www.muso.com/?p=34
+15:44:38	Warning: 	File has moved from https://www.muso.com/?p=34 to https://www.muso.com/about-us/background/
+15:44:38	Warning: 	Moved Permanently for https://www.muso.com/about-us/
+15:44:38	Warning: 	File has moved from https://www.muso.com/about-us/ to https://www.muso.com/about-us/background/
+15:44:38	Warning: 	Moved Permanently for https://www.muso.com/?p=10
+15:44:38	Warning: 	File has moved from https://www.muso.com/?p=10 to https://www.muso.com/products/discover/
+15:44:38	Warning: 	Moved Permanently for https://www.muso.com/?p=1568
+15:44:38	Warning: 	File has moved from https://www.muso.com/?p=1568 to https://www.muso.com/products/protect/
+15:44:38	Warning: 	Moved Permanently for https://www.muso.com/?p=14
+15:44:38	Warning: 	File has moved from https://www.muso.com/?p=14 to https://www.muso.com/products/connect/
+15:44:38	Warning: 	Moved Permanently for https://www.muso.com/?p=1784
+15:44:38	Warning: 	File has moved from https://www.muso.com/?p=1784 to https://www.muso.com/magazine/piracy-data-from-global-view-to-macroeconomic-trends/
+15:45:13	Warning: 	Moved Permanently for https://www.muso.com/?p=38
+15:45:13	Warning: 	File has moved from https://www.muso.com/?p=38 to https://www.muso.com/policies/terms-and-conditions/
+15:45:13	Warning: 	Moved Permanently for https://www.muso.com/policies/
+15:45:13	Warning: 	File has moved from https://www.muso.com/policies/ to https://www.muso.com/policies/terms-and-conditions/
+15:45:13	Warning: 	Moved Permanently for https://www.muso.com/?p=40
+15:45:13	Warning: 	File has moved from https://www.muso.com/?p=40 to https://www.muso.com/policies/privacy-policy/
+15:45:13	Warning: 	Moved Permanently for https://www.muso.com/?p=42
+15:45:13	Warning: 	File has moved from https://www.muso.com/?p=42 to https://www.muso.com/policies/cookie-policy/
+15:45:13	Warning: 	Moved Permanently for https://www.muso.com/?p=36
+15:45:13	Warning: 	File has moved from https://www.muso.com/?p=36 to https://www.muso.com/about-us/founders/
+15:46:48	Warning: 	Moved Permanently for https://www.muso.com/?p=1770
+15:46:48	Warning: 	File has moved from https://www.muso.com/?p=1770 to https://www.muso.com/magazine/youtube-launches-youtube-music-a-piracy-fighter/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=1704
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=1704 to https://www.muso.com/magazine/global-piracy-increases-throughout-2017-muso-reveals/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=1782
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=1782 to https://www.muso.com/magazine/muso-supporting-euipos-economic-impact-study-on-piracy/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=1526
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=1526 to https://www.muso.com/magazine/game-of-thrones-season-7-pirated-over-1-billion-times/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=1491
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=1491 to https://www.muso.com/magazine/the-bigger-picture-india-embracing-the-svod-revolution/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=1124
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=1124 to https://www.muso.com/magazine/game-of-thrones-season-7-opener-pirated-91-74-million-times/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=891
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=891 to https://www.muso.com/magazine/queen-of-indie-jane-clark-talks-piracy-in-the-indie-film-market/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=887
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=887 to https://www.muso.com/magazine/from-rock-legends-to-piracy-a-conversation-with-elio-bordi-from-frontiers/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=882
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=882 to https://www.muso.com/magazine/spain-10th-for-global-music-piracy/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=862
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=862 to https://www.muso.com/magazine/muso-releases-2017-global-film-tv-insight-report/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=846
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=846 to https://www.muso.com/magazine/muso-releases-2017-global-music-insight-report/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=24
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=24 to https://www.muso.com/contact-us/offices/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=830
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=830 to https://www.muso.com/magazine/ripping-is-back-2017s-biggest-music-piracy-threat/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=815
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=815 to https://www.muso.com/magazine/16-insight-report-mena-audiences-make-5bn-piracy-site-visits/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=805
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=805 to https://www.muso.com/magazine/mipcom-report-can-japans-next-wave-embrace-its-7-7bn-anime-piracy-audience/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=770
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=770 to https://www.muso.com/magazine/a-clearer-picture-of-piracy-2016-nordic-piracy-case-study/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=775
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=775 to https://www.muso.com/magazine/strategies-for-uk-film-cos-converting-piracy-streaming-to-sales/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=763
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=763 to https://www.muso.com/magazine/getting-to-know-a-new-piracy-audience/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=750
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=750 to https://www.muso.com/magazine/market-insight-music-piracy-in-switzerland/
+15:46:49	Warning: 	Moved Permanently for https://www.muso.com/?p=732
+15:46:49	Warning: 	File has moved from https://www.muso.com/?p=732 to https://www.muso.com/magazine/big-data-netflix-amazon/
+15:46:53	Warning: 	Moved Permanently for https://www.muso.com/?p=684
+15:46:53	Warning: 	File has moved from https://www.muso.com/?p=684 to https://www.muso.com/magazine/musos-2015-efm-piracy-study-insights/
+15:47:19	Warning: 	Moved Permanently for https://www.muso.com/?p=677
+15:47:19	Warning: 	File has moved from https://www.muso.com/?p=677 to https://www.muso.com/magazine/france-the-film-television-europe-2015/
+15:47:19	Warning: 	Moved Permanently for https://www.muso.com/?p=667
+15:47:19	Warning: 	File has moved from https://www.muso.com/?p=667 to https://www.muso.com/magazine/piracy-star-wars/
+15:47:19	Warning: 	Moved Permanently for https://www.muso.com/?p=840
+15:47:19	Warning: 	File has moved from https://www.muso.com/?p=840 to https://www.muso.com/magazine/the-millenial-tamsyn-bester-reveals-the-secrets-of-self-publishing/
+15:47:23	Warning: 	Moved Permanently for https://www.muso.com/?p=719
+15:47:23	Warning: 	File has moved from https://www.muso.com/?p=719 to https://www.muso.com/magazine/authors-its-time-to-check-your-books-for-world-ip-day/
+15:47:25	Warning: 	Moved Permanently for https://www.muso.com/?p=704
+15:47:25	Warning: 	File has moved from https://www.muso.com/?p=704 to https://www.muso.com/magazine/s-e-smith-self-publishing-interview/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=699
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=699 to https://www.muso.com/magazine/brent-lawson-piracy-streaming/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=663
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=663 to https://www.muso.com/magazine/kirsty-dallas-author-interview/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=823
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=823 to https://www.muso.com/magazine/book-audiences-tops-2bn-visits-to-piracy-sites/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=789
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=789 to https://www.muso.com/magazine/frank-oceans-2-3m-blonde-piracy-audience/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=793
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=793 to https://www.muso.com/magazine/muso-launch-piracy-business-intelligence-at-mipcom/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=758
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=758 to https://www.muso.com/magazine/musos-global-film-tv-piracy-report-2016-released/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=745
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=745 to https://www.muso.com/magazine/muso-at-midem-2016-helping-indie-labels-understand-piracy-demand/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=741
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=741 to https://www.muso.com/magazine/musos-global-music-piracy-insight-report-2016-released/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=737
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=737 to https://www.muso.com/magazine/muso-ceo-andy-chatterley-discusses-piracy-audiences-with-bbc-world-news/
+15:47:27	Warning: 	Moved Permanently for https://www.muso.com/?p=728
+15:47:27	Warning: 	File has moved from https://www.muso.com/?p=728 to https://www.muso.com/magazine/global-piracy-report/
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=689
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=689 to https://www.muso.com/magazine/muso-retune-press-release/
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=454
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=454 to https://www.muso.com/magazine/australia-piracy-problem/
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=626
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=626 to https://www.muso.com/magazine/ebook-self-publishers/
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=621
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=621 to https://www.muso.com/magazine/fans-heroes-music-piracy/
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=392
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=392 to https://www.muso.com/magazine/denmark-television/
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=612
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=612 to https://www.muso.com/magazine/the-indian-music/
+15:47:47	Error: 	"Not Found" (404) at link https://www.muso.com/magazine/the-indian-music/gaana.com/ (from https://www.muso.com/magazine/the-indian-music/)
+15:47:47	Warning: 	Moved Permanently for https://www.muso.com/?p=554
+15:47:47	Warning: 	File has moved from https://www.muso.com/?p=554 to https://www.muso.com/magazine/dmca-explained/
+15:47:51	Warning: 	Moved Permanently for https://www.muso.com/?p=559
+15:47:51	Warning: 	File has moved from https://www.muso.com/?p=559 to https://www.muso.com/magazine/muso-launches-vk-anti-piracy-takedown/
+15:47:53	Warning: 	Moved Permanently for https://www.muso.com/?p=563
+15:47:53	Warning: 	File has moved from https://www.muso.com/?p=563 to https://www.muso.com/magazine/the-tale-of-150000-takedowns/
+15:47:53	Warning: 	Moved Permanently for https://www.muso.com/?p=553
+15:47:53	Warning: 	File has moved from https://www.muso.com/?p=553 to https://www.muso.com/magazine/cyberlocker-torrent-ugc-grey-market-how-do-you-protect-your-content/
+15:47:55	Warning: 	Moved Permanently for https://www.muso.com/?p=567
+15:47:55	Warning: 	File has moved from https://www.muso.com/?p=567 to https://www.muso.com/magazine/internet-piracys-double-standards-a-case-in-question/
+15:47:55	Warning: 	Moved Permanently for https://www.muso.com/?p=217
+15:47:55	Warning: 	File has moved from https://www.muso.com/?p=217 to https://www.muso.com/magazine/google-some-anti-piracy-groups-inadvertently-aiding-piracy/
+15:47:58	Warning: 	Moved Permanently for https://www.muso.com/?p=561
+15:47:58	Warning: 	File has moved from https://www.muso.com/?p=561 to https://www.muso.com/magazine/protecting-the-uks-top-ten-albums/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=716
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=716 to https://www.muso.com/magazine/muso-revolutionizes-self-publishing-anti-piracy-products/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=723
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=723 to https://www.muso.com/magazine/muso-debuting-retune-to-indie-labels-at-aim-music-connected/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=714
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=714 to https://www.muso.com/magazine/muso-to-unveil-industry-first-global-piracy-audience-trends-at-miptv/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=693
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=693 to https://www.muso.com/magazine/muso-to-reveal-piracy-trends-data-on-mena-audiences-at-cabsat/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=577
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=577 to https://www.muso.com/magazine/muso-opens-interactive-pop-up-space-at-mipcom-in-cannes/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=583
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=583 to https://www.muso.com/magazine/muso-names-davide-castorina-as-france-head/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=581
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=581 to https://www.muso.com/magazine/muso-names-kobalt-entertainment-as-italy-partner/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=585
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=585 to https://www.muso.com/magazine/muso-welcomes-new-head-of-music-services/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=587
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=587 to https://www.muso.com/magazine/muso-launch-major-innovations-against-piracy-at-miptv/
+15:48:02	Warning: 	Moved Permanently for https://www.muso.com/?p=588
+15:48:02	Warning: 	File has moved from https://www.muso.com/?p=588 to https://www.muso.com/magazine/new-anti-piracy-technology-to-revolutionise-dance-world/
+15:48:04	Warning: 	Moved Permanently for https://www.muso.com/?p=590
+15:48:04	Warning: 	File has moved from https://www.muso.com/?p=590 to https://www.muso.com/magazine/muso-pushes-boundaries-again-with-anti-piracy-technology-at-sxsw/
+15:48:04	Warning: 	Moved Permanently for https://www.muso.com/anti-piracy-dashboard/
+15:48:04	Warning: 	File has moved from https://www.muso.com/anti-piracy-dashboard/ to http://www.muso.com/products/protect/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=606
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=606 to https://www.muso.com/magazine/muso-reaches-landmark-anti-piracy-agreement-with-russian-social-networking-giant-vk-com/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=602
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=602 to https://www.muso.com/magazine/online-anti-piracy-company-muso-conclude-deal-with-demon-music-group-dmg/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=608
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=608 to https://www.muso.com/magazine/muso-announces-partnership-with-europa-international-to-protect-european-film-titles-from-piracy/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=610
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=610 to https://www.muso.com/magazine/musos-anti-piracy-market-revolution-continues-for-leading-music-artists-film-studios-globally/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=611
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=611 to https://www.muso.com/magazine/muso-tnt-rebrands-as-muso-expands-online-anti-piracy-services/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=565
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=565 to https://www.muso.com/magazine/why-anti-piracy-automation-is-crucial/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=557
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=557 to https://www.muso.com/magazine/how-megaupload-scooped-your-bottom-line/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=592
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=592 to https://www.muso.com/magazine/muso-findings-show-legendary-artists-are-being-forgotten-in-the-fight-against-online-piracy/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=594
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=594 to https://www.muso.com/magazine/muso-secures-smart-award-for-innovative-new-anti-piracy-tool/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=596
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=596 to https://www.muso.com/magazine/self-published-authors-take-control-of-their-pirated-ebooks-with-the-help-of-muso/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=600
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=600 to https://www.muso.com/magazine/muso-online-content-protection-platform-launches-for-tv-content-at-mipcom/
+15:48:12	Warning: 	Moved Permanently for https://www.muso.com/?p=604
+15:48:12	Warning: 	File has moved from https://www.muso.com/?p=604 to https://www.muso.com/magazine/essential-music-marketing-sign-long-term-partnership-with-muso-anti-piracy-to-protect-their-digital-content-online/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 15 seconds : 474 links scanned, 384 files written (20867637 bytes overall) [18039724 bytes received at 41470 bytes/sec], 4977079 bytes transferred using HTTP compression in 292 files, ratio 35%, 27.8 requests per connection
+(1 errors, 176 warnings, 0 messages)
